@@ -5,7 +5,7 @@ A deep learning project built with **TensorFlow/Keras** to classify land use and
 ---
 
 ## 📋 Project Overview
-Remote sensing and geospatial imaging analysis play a crucial role in environmental monitoring, urban planning, and agriculture. This project implements a Custom Convolutional Neural Network (CNN) from scratch to automatically categorize RGB satellite images into **10 distinct land-use classes**.
+Remote sensing and geospatial imaging analysis play a crucial role in environmental monitoring, urban planning, and agriculture. This project implements a Custom Convolutional Neural Network (CNN) from scratch to automatically categorize RGB satellite images into **10 distinct land-use classes**. 
 
 ---
 
