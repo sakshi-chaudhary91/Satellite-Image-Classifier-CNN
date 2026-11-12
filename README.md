@@ -1,6 +1,6 @@
 # 🛰️ Satellite Land Use Classification using CNN (EuroSAT)
 
-A deep learning project built with **TensorFlow/Keras** to classify land use and land cover types using Sentinel-2 satellite imagery from the **EuroSAT dataset**. 
+A deep learning project built with **TensorFlow/Keras** to classify land use and land cover types using Sentinel-2 satellite imagery from the **EuroSAT dataset**.  
 
 ---
 
