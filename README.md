@@ -26,7 +26,7 @@ Remote sensing and geospatial imaging analysis play a crucial role in environmen
 
 ---
 
-## 🏗️ Model Architecture
+## 🏗️ Model Architecture 
 The custom CNN pipeline consists of multiple convolutional blocks followed by fully connected layers:
 * **Input Layer:** $64 \times 64 \times 3$ (RGB Satellite Images)
 * **Conv Blocks:** 3 Convolutional Blocks (Conv2D + ReLU + MaxPooling2D) scaling feature maps up to 128 filters.
