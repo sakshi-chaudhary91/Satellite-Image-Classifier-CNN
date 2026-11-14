@@ -32,7 +32,7 @@ The custom CNN pipeline consists of multiple convolutional blocks followed by fu
 * **Conv Blocks:** 3 Convolutional Blocks (Conv2D + ReLU + MaxPooling2D) scaling feature maps up to 128 filters.
 * **Classification Head:** Flatten Layer $\rightarrow$ Dense Layer (256 units, ReLU) $\rightarrow$ Dropout (0.4) $\rightarrow$ Dense Output Layer (10 classes with Softmax).
 * **Optimizer:** Adam
-* **Loss Function:** Sparse Categorical Crossentropy
+* **Loss Function:** Sparse Categorical Crossentropy 
 
 ---
 
