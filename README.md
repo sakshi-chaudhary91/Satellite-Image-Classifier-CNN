@@ -10,7 +10,7 @@ Remote sensing and geospatial imaging analysis play a crucial role in environmen
 ---
 
 ## 🗂️ Dataset
-* **Dataset Name:** EuroSAT (Land Use and Land Cover Classification with Sentinel-2 Satellite Images)
+* **Dataset Name:** EuroSAT (Land Use and Land Cover Classification with Sentinel-2 Satellite Images) 
 * **Total Images:** 27,000 labeled RGB images ($64 \times 64$ pixels)
 * **Classes (10):**
   1. `AnnualCrop`
